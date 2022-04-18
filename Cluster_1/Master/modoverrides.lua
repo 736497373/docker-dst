@@ -1,5 +1,25 @@
 return {
-  ["workshop-1301033176"]={ configuration_options={ LANG="auto" }, enabled=true },
+  ["workshop-2334209327"]={
+    configuration_options={
+      ["Food Options"]=0,
+      ["General Options"]=0,
+      ["World Options"]=0,
+      coffee_speed=1,
+      df_coffee=1,
+      frida_coffee=1,
+      human_meaty=1,
+      keep_food_spoilage_k=0,
+      serenity_cc=0,
+      serenity_island=0,
+      xmas_foods=1 
+    },
+    enabled=true 
+  },
+  ["workshop-2753774601"]={
+    configuration_options={ [""]=0, CD=0, Health_Penalty=0, Language=false, UI="right_above" },
+    enabled=true 
+  },
+  ["workshop-2791585903"]={ configuration_options={  }, enabled=true },
   ["workshop-378160973"]={
     configuration_options={
       ENABLEPINGS=true,
@@ -12,20 +32,17 @@ return {
     },
     enabled=true 
   },
-  ["workshop-458587300"]={ configuration_options={ Ownership=false, Travel_Cost=32 }, enabled=true },
-  ["workshop-666155465"]={
+  ["workshop-501385076"]={
     configuration_options={
-      chestB=-1,
-      chestG=-1,
-      chestR=-1,
-      food_estimation=-1,
-      food_order=0,
-      food_style=0,
-      lang="auto",
-      show_food_units=-1,
-      show_uses=-1 
+      quick_cook_on_fire=true,
+      quick_harvest=true,
+      quick_pick_cactus=true,
+      quick_pick_plant_normal_ground=true 
     },
     enabled=true 
   },
-  ["workshop-934638020"]={ configuration_options={  }, enabled=true } 
+  ["workshop-661253977"]={
+    configuration_options={ amudiao=true, baodiao=1, kong=0, nillots=0, rendiao=2, zbdiao=true },
+    enabled=true 
+  } 
 }
